@@ -1,6 +1,8 @@
 # Payments
 
-**TODO: Add description**
+Little app I wrote to use Monzo's API to find out who hasn't paid for softball matches :) 
+
+Just parses the transaction list and matches against a list of who played in which match.
 
 ## Installation
 
